@@ -1,0 +1,23 @@
+.first{
+  text-align: center;
+  background-color: powderblue;
+}
+
+.second{
+  background-color: aqua;
+}
+
+.third{
+  background-color: #DAA520;
+}
+
+.forth{
+  background-color: #BDB76B;
+}
+
+.name{
+  text-align: center;
+  font-size: 60px;
+font-family: 'Gwendolyn', cursive;
+  color: red;
+}
